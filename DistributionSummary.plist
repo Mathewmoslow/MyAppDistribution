@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QuestionnaireChatApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6592F092CA83966239259D2AEDAA8FCEB5DA62DC</string>
+				<key>dateExpires</key>
+				<string>7/17/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HDZD58M428.com.mathewmoslow.QuestionnaireChatApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HDZD58M428</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>QuestionnaireChatApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>622b8fdf-9944-4657-b969-1acd81d84a2a</string>
+				<key>dateExpires</key>
+				<string>7/17/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.mathewmoslow.QuestionnaireChatApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HDZD58M428</string>
+				<key>name</key>
+				<string>Mathew Moslow</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

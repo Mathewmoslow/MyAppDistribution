@@ -1,0 +1,116 @@
+2024-07-17 16:18:49 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x3464d0910; archive(resolved)="<IDEArchive: 0x60001309b720>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x3464d0910; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x34dc0bff0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34defa3e0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34ded0c20; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34d4feaf0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x33fb8eee0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34de5ebe0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34de77ce0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34d7e35c0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000f99dc0; teamID='HDZD58M428', teamName='Mathew Moslow', teamType='Individual', username='matt.hall@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34dc0b9e0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="(null)">
+	<IDEDistributionContext: 0x3497385a0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="(null)">
+	<IDEDistributionContext: 0x34d7a3830; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="(null)">
+	<IDEDistributionContext: 0x34d79f4e0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000098972a0>", team="(null)">
+	<IDEDistributionContext: 0x348cc7010; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x345f88fb0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x342c40ac0; archive = "<IDEArchive: 0x60001309b720>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x3464d0910>
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCopyItemStep
+2024-07-17 16:18:49 +0000  Running /usr/bin/ditto '-V' '/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app' '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app'
+2024-07-17 16:18:49 +0000  >>> Copying /Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app 
+2024-07-17 16:18:49 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-07-17 16:18:49 +0000  2111 bytes for ./_CodeSignature/CodeResources
+2024-07-17 16:18:49 +0000  copying file ./QuestionnaireChatApp ... 
+2024-07-17 16:18:49 +0000  272416 bytes for ./QuestionnaireChatApp
+2024-07-17 16:18:49 +0000  copying file ./embedded.mobileprovision ... 
+2024-07-17 16:18:49 +0000  14457 bytes for ./embedded.mobileprovision
+2024-07-17 16:18:49 +0000  copying file ./Info.plist ... 
+2024-07-17 16:18:49 +0000  1272 bytes for ./Info.plist
+2024-07-17 16:18:49 +0000  copying file ./PkgInfo ... 
+2024-07-17 16:18:49 +0000  8 bytes for ./PkgInfo
+2024-07-17 16:18:49 +0000  /usr/bin/ditto exited with 0
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionSymbolsStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionAppThinningStep
+2024-07-17 16:18:49 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionArchThinningStep
+2024-07-17 16:18:49 +0000  Item /Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-07-17 16:18:49 +0000  Archs to thin for item /Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app are ["arm64e"]
+2024-07-17 16:18:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app/QuestionnaireChatApp' '-verify_arch' 'arm64e'
+2024-07-17 16:18:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-07-17 16:18:49 +0000  Skipping architecture thinning for item "QuestionnaireChatApp" because arch "arm64e" wasn't found
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionODRStep
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-07-17 16:18:49 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-07-17 16:18:49 +0000  Processing step: IDEDistributionCodesignStep
+2024-07-17 16:18:49 +0000  Entitlements for <IDEDistributionItem: 0x600013f3b9c0; bundleID='com.mathewmoslow.QuestionnaireChatApp', path='<DVTFilePath:0x60000a862130:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001fd9b660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000af64840; name='Apple Development: matt.hall@yahoo.com (SRP2CTF5H7)', hash='F07EB25D72249E315A7FE52AA3E607DE45DBA30A', serialNumber='3CDDA68C2EC1A93FFEA110C9BA5E20F', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-08 00:27:48 +0000''>', entitlements='{
+    "application-identifier" = "HDZD58M428.com.mathewmoslow.QuestionnaireChatApp";
+    "com.apple.developer.team-identifier" = HDZD58M428;
+    "get-task-allow" = 1;
+}', teamID='HDZD58M428', identifier='com.mathewmoslow.QuestionnaireChatApp', executablePath='<DVTFilePath:0x60000f6c1400:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app/QuestionnaireChatApp'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "HDZD58M428.com.mathewmoslow.QuestionnaireChatApp";
+    "com.apple.developer.team-identifier" = HDZD58M428;
+    "get-task-allow" = 0;
+}
+2024-07-17 16:18:49 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-07-17 16:18:49 +0000  Entitlements for <IDEDistributionItem: 0x600013f3b9c0; bundleID='com.mathewmoslow.QuestionnaireChatApp', path='<DVTFilePath:0x60000a862130:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001fd9b660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000af66e80; name='Apple Development: matt.hall@yahoo.com (SRP2CTF5H7)', hash='F07EB25D72249E315A7FE52AA3E607DE45DBA30A', serialNumber='3CDDA68C2EC1A93FFEA110C9BA5E20F', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-08 00:27:48 +0000''>', entitlements='{
+    "application-identifier" = "HDZD58M428.com.mathewmoslow.QuestionnaireChatApp";
+    "com.apple.developer.team-identifier" = HDZD58M428;
+    "get-task-allow" = 1;
+}', teamID='HDZD58M428', identifier='com.mathewmoslow.QuestionnaireChatApp', executablePath='<DVTFilePath:0x60000f6c1400:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app/QuestionnaireChatApp'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "HDZD58M428.com.mathewmoslow.QuestionnaireChatApp";
+    "com.apple.developer.team-identifier" = HDZD58M428;
+    "get-task-allow" = 0;
+}
+2024-07-17 16:18:49 +0000  Writing entitlements for <IDEDistributionItem: 0x600013f3b9c0; bundleID='com.mathewmoslow.QuestionnaireChatApp', path='<DVTFilePath:0x60000a862130:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001fd9b660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000af65140; name='Apple Development: matt.hall@yahoo.com (SRP2CTF5H7)', hash='F07EB25D72249E315A7FE52AA3E607DE45DBA30A', serialNumber='3CDDA68C2EC1A93FFEA110C9BA5E20F', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-08 00:27:48 +0000''>', entitlements='{
+    "application-identifier" = "HDZD58M428.com.mathewmoslow.QuestionnaireChatApp";
+    "com.apple.developer.team-identifier" = HDZD58M428;
+    "get-task-allow" = 1;
+}', teamID='HDZD58M428', identifier='com.mathewmoslow.QuestionnaireChatApp', executablePath='<DVTFilePath:0x60000f6c1400:'/Users/mathewmoslow/Library/Developer/Xcode/Archives/2024-07-17/QuestionnaireChatApp 7-17-24, 12.18 PM.xcarchive/Products/Applications/QuestionnaireChatApp.app/QuestionnaireChatApp'>', hardenedRuntime='0'>'> to: /var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/entitlements~~~KXyek8
+2024-07-17 16:18:49 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6592F092CA83966239259D2AEDAA8FCEB5DA62DC' '--entitlements' '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/entitlements~~~KXyek8' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app'
+2024-07-17 16:18:49 +0000  /var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app: replacing existing signature
+2024-07-17 16:19:07 +0000  /var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app: signed app bundle with Mach-O thin (arm64) [com.mathewmoslow.QuestionnaireChatApp]
+2024-07-17 16:19:07 +0000  /usr/bin/codesign exited with 0
+2024-07-17 16:19:07 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-07-17 16:19:07 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-07-17 16:19:07 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-07-17 16:19:07 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root' '/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Packages/QuestionnaireChatApp.ipa'
+2024-07-17 16:19:07 +0000  >>> Copying /var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root 
+2024-07-17 16:19:07 +0000  copying file ./Payload/QuestionnaireChatApp.app/_CodeSignature/CodeResources ... 
+2024-07-17 16:19:07 +0000  2111 bytes for ./Payload/QuestionnaireChatApp.app/_CodeSignature/CodeResources
+2024-07-17 16:19:07 +0000  copying file ./Payload/QuestionnaireChatApp.app/QuestionnaireChatApp ... 
+2024-07-17 16:19:07 +0000  272416 bytes for ./Payload/QuestionnaireChatApp.app/QuestionnaireChatApp
+2024-07-17 16:19:07 +0000  copying file ./Payload/QuestionnaireChatApp.app/embedded.mobileprovision ... 
+2024-07-17 16:19:07 +0000  16537 bytes for ./Payload/QuestionnaireChatApp.app/embedded.mobileprovision
+2024-07-17 16:19:07 +0000  copying file ./Payload/QuestionnaireChatApp.app/Info.plist ... 
+2024-07-17 16:19:07 +0000  1272 bytes for ./Payload/QuestionnaireChatApp.app/Info.plist
+2024-07-17 16:19:07 +0000  copying file ./Payload/QuestionnaireChatApp.app/PkgInfo ... 
+2024-07-17 16:19:07 +0000  8 bytes for ./Payload/QuestionnaireChatApp.app/PkgInfo
+2024-07-17 16:19:07 +0000  /usr/bin/ditto exited with 0
+2024-07-17 16:19:07 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-07-17 16:19:07 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-07-17 16:19:07 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-07-17 16:19:07 +0000  IDEDistributionItem init <DVTFilePath:0x60000a802250:'/var/folders/vy/6v_h4mtn5wn3t3y79cnpd8t80000gn/T/XcodeDistPipeline.~~~sr7SSf/Root/Payload/QuestionnaireChatApp.app'>
+2024-07-17 16:19:07 +0000  Processing step: IDEDistributionCreateManifestStep
